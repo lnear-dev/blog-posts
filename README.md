@@ -13,5 +13,4 @@
 - [Inheritance vs. Composition: Choosing the Right Approach in Software Design](Composition-isnt-inheritance.md)
 - [Understanding Linked Lists and Their Application in PHP](LinkedList.md)
 - [Understanding RAII in PHP: A Practical Example](RAII.md)
-- [<ul class="table-of-contents">](README.md)
 - [Exploring Recursive Backtracking: A Powerful Technique for Problem Solving](RecursiveBacktracking.md)
