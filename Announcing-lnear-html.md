@@ -1,3 +1,8 @@
+---
+title: 'lnear/html, a PHP library for generating HTML elements'
+description: 'lnear/html, a PHP library for generating HTML elements'
+date: 2024-07-01T02:46:47.020731+00:00
+---
 # Generating PHP Code for HTML Elements: My Journey
 
 Embarking on the journey to create a PHP library for generating HTML elements was both challenging and rewarding. This project aimed to dynamically generate PHP functions for all HTML elements and their attributes, ensuring they were up-to-date with the latest HTML specifications. Here, I’ll detail the process, the challenges faced, and how I overcame them to achieve the final product.
