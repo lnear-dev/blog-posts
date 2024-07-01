@@ -2,7 +2,7 @@
 
 - [Discovering the Power of Object-Oriented Programming (OOP)](01.md)
 - [Unlocking the Core Concepts of Object-Oriented Programming](02.md)
-- [Mastering Classes and Objects in Object-Oriented Programming](03-.md)
+- [Mastering Classes and Objects in Object-Oriented Programming](03.md)
 - [Unveiling the Power of Abstraction in Object-Oriented Programming](04.md)
 - [Securing Your Code with Encapsulation and Data Hiding](05.md)
 - [Harnessing Inheritance for Code Reusability in OOP](06.md)
